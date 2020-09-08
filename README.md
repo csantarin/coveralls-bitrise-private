@@ -1,6 +1,6 @@
 # Coveralls Bitrise proof-of-concept
 
-[![Coverage Status](https://coveralls.io/repos/github/csantarin/coveralls-bitrise-experiment/badge.svg?branch=master)](https://coveralls.io/github/csantarin/coveralls-bitrise-experiment?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/csantarin/coveralls-bitrise-private/badge.svg?branch=master)](https://coveralls.io/github/csantarin/coveralls-bitrise-private?branch=master)
 
 ## Overview
 
