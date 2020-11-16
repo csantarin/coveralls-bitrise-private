@@ -1,4 +1,5 @@
 # https://askubuntu.com/a/58828
+echo "Setting up notification target URLs..."
 
 # To set variable only for current shell:
 BUILD_URL_KEY_1="https://www.google.com"
