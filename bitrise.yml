@@ -49,7 +49,7 @@ workflows:
         - text: |-
             Build complete! URLs: 
             
-            - $BUILD_URL_KEY_1
+            - `$BUILD_URL_KEY_1`
             - $BUILD_URL_KEY_2
             - $BUILD_URL_KEY_3
         - pretext: ''
