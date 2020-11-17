@@ -47,7 +47,11 @@ workflows:
         inputs:
         - channel: '#20201116_bitrise_slack_notification_step_experiment'
         - text: |-
-            Build complete! URLs: $BUILD_URL_KEY_3
+            Build complete! URLs: 
+            
+            - $BUILD_URL_KEY_1
+            - $BUILD_URL_KEY_2
+            - $BUILD_URL_KEY_3
         - pretext: ''
         - webhook_url: $ML_SLACK_WEBHOOK
         - api_token: ''
