@@ -54,6 +54,7 @@ workflows:
             - $BUILD_URL_KEY_3
         - pretext: ''
         - webhook_url: $ML_SLACK_WEBHOOK
+        - title_link: $BUILD_URL_KEY_3
         - api_token: ''
     - yarn@0:
         inputs:
